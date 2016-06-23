@@ -1,4 +1,4 @@
-# Cuantas Horas
+# Cuántas Horas
 
 **El widget para MacOS X que estima HH para proyectos web**
 
