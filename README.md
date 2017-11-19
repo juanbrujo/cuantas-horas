@@ -2,7 +2,7 @@
 
 **El widget para MacOS X que estima HH para proyectos web**
 
-![](https://dl.dropboxusercontent.com/u/3522/cuantas-horas.png)
+![Cuántas Horas Widget](https://i.imgur.com/zeArY37.png)
 
 ### Uso: 
 
